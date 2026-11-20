@@ -13,13 +13,13 @@ Creado por **[papielguapo](https://github.com/papielguapo)**.
 
 ---
 
-### 🖼️ Skin ATARI PC (Por defecto)
+### ATARI PC
 
-![OUTPUT - PAPIELGUAPO (Atari PC Skin)](Previews/AtariPC.png)
+![ATARI PC](Previews/AtariPC.png)
 
-### 🪟 Skin WINDOWS
+### WINDOWS 98
 
-![OUTPUT - PAPIELGUAPO (Windows Skin)](Previews/Windows98.png)
+![WINDOWS 98](Previews/Windows98.png)
 
 </div>
 
