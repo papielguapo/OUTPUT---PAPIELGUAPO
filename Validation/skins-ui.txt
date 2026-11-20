@@ -1,0 +1,3 @@
+PASS BLACK/DIAMOND II themes, adjacent I/O/SKIN selectors, cached metal/purple artwork, no Tools/Reset/preset UI, click-to-clear and per-instance theme persistence
+PASS retained overload/reset, stage control dimming without gain changes, Delta/Solo compensation suspension indication
+PASS compact 450x270..1350x810 layout, no top/expand/reset/tools controls, all four coloured I/O bars in seven scales, 192kHz interval peaks, independent RMS, undo/redo, direct I/O scale selector and compact session restore

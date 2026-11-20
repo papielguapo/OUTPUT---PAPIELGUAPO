@@ -1,0 +1,1 @@
+PASS 8 COMP activity cases: PRE/POST, full/split, Effect 0/100, silent R, bypass and audio bit identity

@@ -1,0 +1,2 @@
+PASS UI undo/redo parameter edit
+PASS cached spectrum tilt, optional low-band phase/silence rejection, TOOLS bounds, per-instance preferences/session restore

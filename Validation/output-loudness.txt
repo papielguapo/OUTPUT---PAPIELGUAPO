@@ -1,0 +1,4 @@
+LUFS M=-19.9933 S=-19.9933 I=-19.95 dBTP=-20 frames=192000
+Intersample dBTP=0.103525 sample peak=-3.0103
+PASS reset while queued: exactly 48000 new frames; old -20dBFS excluded from new -40dBFS epoch
+PASS stereo 1kHz -20dBFS R128 and true peak; disabled metering skips ingestion; immediate-start capture and epoch-safe resets

@@ -1,0 +1,2 @@
+8741de8fc8f4394e34d3044f284f6ea2c248cd48f9bafbf8cf63e9d312b678a5  Binaries/OUTPUT.vst3/Contents/x86_64-win/OUTPUT.vst3
+6d5ba18722384efe5047598df25f821388c97bd50bef221593ed8988f4a5ad6c  Binaries/OUTPUT.exe

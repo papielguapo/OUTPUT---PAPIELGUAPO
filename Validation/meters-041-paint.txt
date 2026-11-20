@@ -1,0 +1,1 @@
+PASS coloured Input/Output L/R bars in all seven scales at 450/900px; dBFS -48dB transient with tiny RMS; red above 0dBFS; K-12/14/20 sine references

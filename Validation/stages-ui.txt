@@ -1,0 +1,2 @@
+PASS retained overload/reset, stage control dimming without gain changes, Delta/Solo compensation suspension indication
+PASS compact 450x270..1350x810 layout, no top/expand controls, all four coloured I/O bars in seven scales, 192kHz interval peaks, independent RMS, undo/redo, tools bounds and compact session restore

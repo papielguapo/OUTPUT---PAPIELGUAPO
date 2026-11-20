@@ -1,0 +1,1 @@
+Post-Input automation aligned to declared latency, max error=1.141e-05

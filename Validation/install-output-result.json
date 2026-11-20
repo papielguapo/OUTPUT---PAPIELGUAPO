@@ -1,0 +1,12 @@
+﻿{
+    "status":  "installed",
+    "path":  "C:\\Program Files\\Common Files\\VST3\\OUTPUT.vst3",
+    "fileVersion":  "0.9.4",
+    "sha256":  "AA8A0F5CC69D804F086BFBE7F4B090906A0CE968D45D041B41275754270CE2E2",
+    "backups":  [
+                    {
+                        "backup":  "C:\\Users\\anton\\Documents\\Codex\\2026-11-16\\pu\\work\\retired-vst3\\OUTPUT.vst3-20261117-220807376",
+                        "original":  "C:\\Program Files\\Common Files\\VST3\\OUTPUT.vst3"
+                    }
+                ]
+}

@@ -1,0 +1,1 @@
+PASS COMP VOL activation warmup, makeup <=2 dB/s, convergence, noise returns to unity, restart warmup and zero allocations: 4 rates x 3 block sizes

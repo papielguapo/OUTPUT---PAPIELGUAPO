@@ -1,0 +1,6 @@
+build/
+Backups/
+Install-result.json
+.vs/
+*.user
+*.suo

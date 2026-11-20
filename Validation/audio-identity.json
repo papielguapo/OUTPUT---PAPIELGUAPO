@@ -1,0 +1,114 @@
+[
+  {
+    "prePost": 0,
+    "bandSplit": 0,
+    "clip": 0,
+    "neutralFastPath": false,
+    "stereoBitIdentical": true
+  },
+  {
+    "prePost": 0,
+    "bandSplit": 0,
+    "clip": 1,
+    "neutralFastPath": false,
+    "stereoBitIdentical": true
+  },
+  {
+    "prePost": 0,
+    "bandSplit": 1,
+    "clip": 0,
+    "neutralFastPath": false,
+    "stereoBitIdentical": true
+  },
+  {
+    "prePost": 0,
+    "bandSplit": 1,
+    "clip": 1,
+    "neutralFastPath": false,
+    "stereoBitIdentical": true
+  },
+  {
+    "prePost": 1,
+    "bandSplit": 0,
+    "clip": 0,
+    "neutralFastPath": false,
+    "stereoBitIdentical": true
+  },
+  {
+    "prePost": 1,
+    "bandSplit": 0,
+    "clip": 1,
+    "neutralFastPath": false,
+    "stereoBitIdentical": true
+  },
+  {
+    "prePost": 1,
+    "bandSplit": 1,
+    "clip": 0,
+    "neutralFastPath": false,
+    "stereoBitIdentical": true
+  },
+  {
+    "prePost": 1,
+    "bandSplit": 1,
+    "clip": 1,
+    "neutralFastPath": false,
+    "stereoBitIdentical": true
+  },
+  {
+    "prePost": 0,
+    "bandSplit": 0,
+    "clip": 0,
+    "neutralFastPath": true,
+    "stereoBitIdentical": true
+  },
+  {
+    "prePost": 0,
+    "bandSplit": 0,
+    "clip": 1,
+    "neutralFastPath": true,
+    "stereoBitIdentical": true
+  },
+  {
+    "prePost": 0,
+    "bandSplit": 1,
+    "clip": 0,
+    "neutralFastPath": true,
+    "stereoBitIdentical": true
+  },
+  {
+    "prePost": 0,
+    "bandSplit": 1,
+    "clip": 1,
+    "neutralFastPath": true,
+    "stereoBitIdentical": true
+  },
+  {
+    "prePost": 1,
+    "bandSplit": 0,
+    "clip": 0,
+    "neutralFastPath": true,
+    "stereoBitIdentical": true
+  },
+  {
+    "prePost": 1,
+    "bandSplit": 0,
+    "clip": 1,
+    "neutralFastPath": true,
+    "stereoBitIdentical": true
+  },
+  {
+    "prePost": 1,
+    "bandSplit": 1,
+    "clip": 0,
+    "neutralFastPath": true,
+    "stereoBitIdentical": true
+  },
+  {
+    "prePost": 1,
+    "bandSplit": 1,
+    "clip": 1,
+    "neutralFastPath": true,
+    "stereoBitIdentical": true
+  }
+]

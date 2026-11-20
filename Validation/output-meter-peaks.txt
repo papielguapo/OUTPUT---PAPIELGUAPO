@@ -1,0 +1,1 @@
+PASS transient peaks across full 192kHz/20fps UI interval

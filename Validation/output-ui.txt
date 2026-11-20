@@ -1,0 +1,9 @@
+PASS invalid/multitone harmonic rejection; spectrum ECO/HQ; lazy FFT dispatch
+PASS FFT fundamental 996.09375 Hz; H2 -20 dBc; H3 -26.02 dBc; H2-H12 ratio 11.1803%; RMS; VU envelope; stereo correlation +/-1
+PASS linear H1 +6.0206dB, 0/180deg phase, coherence rejection and silence
+PASS EQ SWEET SPOT 3dB LED thresholds -15..0dBFS, SP -12dBFS and +3/+6/+9 headroom
+PASS independent L/R input/output peak and RMS meters
+PASS HOLD freezes COMP activity display while measurement continues
+PASS transient peaks across full 192kHz/20fps UI interval
+PASS hide/show analyser, 450x290 compact layout and suspended analyser
+PASS square layout, ten parameter attachments, order selector, resize, stereo telemetry

@@ -1,0 +1,5 @@
+v0.1 all-view FFT baseline ms/1000 frames: 195.169
+v0.2 LEVELS (no FFT) ms/1000 frames: 24.7542
+v0.2 spectrum ECO 2048 ms/1000 frames: 112.238
+v0.2 spectrum HQ 4096 ms/1000 frames: 173.139
+v0.2 LINEAR ECO 2048 ms/1000 frames: 104.786

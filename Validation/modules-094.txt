@@ -1,0 +1,1 @@
+PASS integrated density stereo separation, bypass, closed editor, no allocations, byte-identical audio PRE/POST; phase/side mono, antiphase, quadrature, one-sided, silence; OS 1/2/4/8 finite audio, latency, live changes and state

@@ -1,0 +1,109 @@
+Versión de MSBuild 18.11.1-1.26513.3+940033be3 para .NET Framework
+
+  Checking File Globs
+  1>Checking Build System
+  Building Custom Rule C:/Users/anton/Documents/Codex/2026-11-16/pu/outputs/D2F-SCOPE/CMakeLists.txt
+  Building VST3 manifest helper for Phobos67
+  -- Selecting Windows SDK version 10.0.26100.0 to target Windows 10.0.26200.
+  -- Configuring done (0.1s)
+  -- Generating done (0.3s)
+  -- Build files have been written to: C:/Users/anton/Documents/Codex/2026-11-16/pu/work/build/vst3_helpers/Phobos67
+  Phobos67_rc_lib.vcxproj -> C:\Users\anton\Documents\Codex\2026-11-16\pu\work\build\Phobos67_rc_lib.dir\Release\Phobos67_rc_lib.lib
+  Versi├│n de MSBuild 18.11.1-1.26513.3+940033be3 para .NET Framework
+  
+    1>Checking Build System
+    Building Custom Rule C:/Users/anton/Documents/juce-9.0.4/JUCE/extras/Build/CMake/juce_vst3_helper/CMakeLists.txt
+    juce_VST3ManifestHelper.cpp
+    vst3_helper.vcxproj -> C:\Users\anton\Documents\Codex\2026-11-16\pu\work\build\vst3_helpers\Phobos67\vst3_helper.exe
+    Building Custom Rule C:/Users/anton/Documents/juce-9.0.4/JUCE/extras/Build/CMake/juce_vst3_helper/CMakeLists.txt
+  Building Custom Rule C:/Users/anton/Documents/Codex/2026-11-16/pu/outputs/D2F-SCOPE/CMakeLists.txt
+  Building Custom Rule C:/Users/anton/Documents/Codex/2026-11-16/pu/outputs/D2F-SCOPE/CMakeLists.txt
+  PluginProcessor.cpp
+  PluginEditor.cpp
+  juce_audio_processors.cpp
+  juce_gui_extra.cpp
+  juce_gui_basics.cpp
+  juce_gui_basics_2.cpp
+  juce_gui_basics_3.cpp
+  juce_gui_basics_4.cpp
+  juce_gui_basics_5.cpp
+  juce_graphics.cpp
+  juce_graphics_Harfbuzz.cpp
+  juce_events.cpp
+  juce_core.cpp
+  juce_core_CompilationTime.cpp
+  juce_data_structures.cpp
+  juce_audio_processors_headless.cpp
+  juce_audio_processors_headless_ara.cpp
+  juce_audio_processors_headless_lv2_libs.cpp
+  juce_audio_basics.cpp
+  juce_audio_utils.cpp
+  juce_audio_formats.cpp
+  juce_audio_devices.cpp
+  juce_dsp.cpp
+  juce_graphics_Sheenbidi.c
+  juce_graphics_libjpg_1.c
+  juce_graphics_libjpg_2.c
+  juce_graphics_libjpg_3.c
+  juce_graphics_libpng.c
+  juce_graphics_libwebp_dec.c
+  juce_graphics_libwebp_dsp_dec.c
+  juce_graphics_libwebp_dsp_dec_avx2.c
+  juce_graphics_libwebp_dsp_dec_sse41.c
+  juce_graphics_libwebp_dsp_enc.c
+  juce_graphics_libwebp_dsp_enc_avx2.c
+  juce_graphics_libwebp_dsp_enc_sse41.c
+  juce_graphics_libwebp_enc.c
+  juce_graphics_libwebp_sharpyuv.c
+  juce_graphics_libwebp_utils.c
+  juce_graphics_lunasvg.c
+  juce_core_zlib.c
+  juce_audio_formats_flac_1.c
+  juce_audio_formats_flac_2.c
+  juce_audio_formats_ogg.c
+  juce_audio_formats_opus.c
+  juce_audio_formats_opusfile.c
+  Phobos67.vcxproj -> C:\Users\anton\Documents\Codex\2026-11-16\pu\work\build\Phobos67_artefacts\Release\OUTPUT_SharedCode.lib
+  Building Custom Rule C:/Users/anton/Documents/Codex/2026-11-16/pu/outputs/D2F-SCOPE/CMakeLists.txt
+  juce_audio_plugin_client_AAX.cpp
+  juce_audio_plugin_client_AAX_utils.cpp
+  juce_audio_plugin_client_ARA.cpp
+  juce_audio_plugin_client_LV2.cpp
+  juce_audio_plugin_client_Standalone.cpp
+  juce_audio_plugin_client_Unity.cpp
+  juce_audio_plugin_client_VST2.cpp
+  juce_audio_plugin_client_VST3.cpp
+     Creando biblioteca C:/Users/anton/Documents/Codex/2026-11-16/pu/work/build/Phobos67_artefacts/Release/VST3/OUTPUT.lib y objeto C:/Users/anton/Documents/Codex/2026-11-16/pu/work/build/Phobos67_artefacts/Release/VST3/OUTPUT.exp
+  Phobos67_VST3.vcxproj -> C:\Users\anton\Documents\Codex\2026-11-16\pu\work\build\Phobos67_artefacts\Release\VST3\OUTPUT.vst3\Contents\x86_64-win\OUTPUT.vst3
+  removing moduleinfo.json
+  creating C:/Users/anton/Documents/Codex/2026-11-16/pu/work/build/Phobos67_artefacts/Release/VST3/OUTPUT.vst3/Contents/Resources/moduleinfo.json
+Versión de MSBuild 18.11.1-1.26513.3+940033be3 para .NET Framework
+
+  Checking File Globs
+  1>Checking Build System
+  Building Custom Rule C:/Users/anton/Documents/Codex/2026-11-16/pu/outputs/D2F-SCOPE/CMakeLists.txt
+  Phobos67_rc_lib.vcxproj -> C:\Users\anton\Documents\Codex\2026-11-16\pu\work\build\Phobos67_rc_lib.dir\Release\Phobos67_rc_lib.lib
+  Building Custom Rule C:/Users/anton/Documents/Codex/2026-11-16/pu/outputs/D2F-SCOPE/CMakeLists.txt
+  Phobos67.vcxproj -> C:\Users\anton\Documents\Codex\2026-11-16\pu\work\build\Phobos67_artefacts\Release\OUTPUT_SharedCode.lib
+  Building Custom Rule C:/Users/anton/Documents/Codex/2026-11-16/pu/outputs/D2F-SCOPE/CMakeLists.txt
+  juce_audio_plugin_client_AAX.cpp
+  juce_audio_plugin_client_AAX_utils.cpp
+  juce_audio_plugin_client_ARA.cpp
+  juce_audio_plugin_client_LV2.cpp
+  juce_audio_plugin_client_Standalone.cpp
+  juce_audio_plugin_client_Unity.cpp
+  juce_audio_plugin_client_VST2.cpp
+  juce_audio_plugin_client_VST3.cpp
+  Phobos67_Standalone.vcxproj -> C:\Users\anton\Documents\Codex\2026-11-16\pu\work\build\Phobos67_artefacts\Release\Standalone\OUTPUT.exe
+Versión de MSBuild 18.11.1-1.26513.3+940033be3 para .NET Framework
+
+  Checking File Globs
+  1>Checking Build System
+  Building Custom Rule C:/Users/anton/Documents/Codex/2026-11-16/pu/outputs/D2F-SCOPE/CMakeLists.txt
+  Phobos67Check_rc_lib.vcxproj -> C:\Users\anton\Documents\Codex\2026-11-16\pu\work\build\Phobos67Check_rc_lib.dir\Release\Phobos67Check_rc_lib.lib
+  Building Custom Rule C:/Users/anton/Documents/Codex/2026-11-16/pu/outputs/D2F-SCOPE/CMakeLists.txt
+  Phobos67.vcxproj -> C:\Users\anton\Documents\Codex\2026-11-16\pu\work\build\Phobos67_artefacts\Release\OUTPUT_SharedCode.lib
+  Building Custom Rule C:/Users/anton/Documents/Codex/2026-11-16/pu/outputs/D2F-SCOPE/CMakeLists.txt
+  Check.cpp
+  AllocationMonitor.cpp
+  Phobos67Check.vcxproj -> C:\Users\anton\Documents\Codex\2026-11-16\pu\work\build\Phobos67Check_artefacts\Release\Phobos67Check.exe

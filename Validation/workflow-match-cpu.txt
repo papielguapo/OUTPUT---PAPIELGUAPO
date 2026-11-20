@@ -1,0 +1,1 @@
+Audio processBlock ms: 506.056; audio duration ms: 32000; realtime CPU percent of one core: 1.58143

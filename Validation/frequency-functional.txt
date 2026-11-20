@@ -1,0 +1,42 @@
+PASS Inflator anti-denormal: nonzero rounding preserved; exact zero alternates
+  Ceiling-hit samples=213707
+PASS Final Clip: 40 rate/channel/block combinations; Input/Output max; active automation
+PASS Clip OFF permits signal above 0 dBFS; no hidden auto output
+PASS Power and host bypass: exact 38-sample delay, stereo, variable block sizes
+PASS Host bypass meters follow audio instead of freezing
+PASS K-12 calibration and peak calibration: -12 dBFS sine; decay on silence
+PASS Every visible audio control changes the signal; all four frequency selections work
+PASS 192 kHz Sub 60 Hz +10 dB: stable output over five seconds
+PASS Mid/Side gain: pure-mid and pure-side signals, -20/+6/+20 dB, no opposite-component gain
+PASS Mono and Delta: equal-channel sum and latency-aligned difference
+PASS Stereo meters: independent L/R peaks and RMS, K-14 zero reference
+PASS Band Split and Order change audio; Clip holds in all monitor/stage combinations
+PASS Full state round-trip and restored audio; malformed state rejected
+PASS Automation fuzz: all controls, 44.1/192 kHz, Clip ceiling and finite output
+  allocations=0; elapsed including signal generation=115.205 ms; audio duration=5333.33 ms
+PASS No C++ heap allocation inside processBlock during parameter automation; timing
+PASS Stereo isolation: one active channel does not leak into the silent channel
+PASS Solo monitors: Mid, Side and final Clip residual
+  COMP VOL output=-12 dB, residual RMS difference=-0.00957247 dB; allocations=0
+  COMP VOL output=12 dB, residual RMS difference=0.0118656 dB; allocations=0
+PASS COMP VOL: RMS compensation converges, silence safe and callback allocation-free
+PASS Presets: gain locks only on preset load, session restores all gains
+PASS Independent stage bypass retains settings and isolates each stage in PRE/POST
+  stage transition max adjacent delta=0.000183012, callback allocations=0
+PASS Stage switching: 5ms transitions, stable latency and no callback allocations
+PASS Legacy presets without stage flags enable both stages
+  Air 48000Hz 0->3 DC max step smooth=8.08388e-07 abrupt=0.00336648
+  Air 48000Hz 3->0 DC max step smooth=1.20699e-06 abrupt=0.00393163
+  Sub 48000Hz 0->3 DC max step smooth=3.60459e-05 abrupt=0.000792637
+  Sub 48000Hz 3->0 DC max step smooth=0.000101343 abrupt=0.000874653
+  Air 192000Hz 0->3 DC max step smooth=1.02073e-06 abrupt=0.00517662
+  Air 192000Hz 3->0 DC max step smooth=1.10641e-06 abrupt=0.00553751
+  Sub 192000Hz 0->3 DC max step smooth=1.1459e-05 abrupt=0.000214204
+  Sub 192000Hz 3->0 DC max step smooth=2.02954e-05 abrupt=0.000160456
+PASS Hz transitions: lower DC onset steps than abrupt coefficient updates
+  Hz automation 44100 final max error=1.447e-05, allocations=0
+  final RMS gain difference=0.000133956 dB
+  Hz automation 192000 final max error=0.000117136, allocations=0
+  final RMS gain difference=0.000483456 dB
+PASS Rapid Hz changes converge to latest preset without callback allocation
+FUNCTIONAL AUDIT: 24 groups passed, 0 failed

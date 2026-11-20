@@ -1,0 +1,1 @@
+PASS one option per discrete wheel event; both parameter directions and endpoints; small trackpad deltas accumulate, inertial motion ignored, reversal resets; SCULP-off blocks edits

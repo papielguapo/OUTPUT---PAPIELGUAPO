@@ -1,0 +1,28 @@
+PASS Inflator anti-denormal: nonzero rounding preserved; exact zero alternates
+  Ceiling-hit samples=214217
+PASS Final Clip: 40 rate/channel/block combinations; Input/Output max; active automation
+PASS Clip OFF permits signal above 0 dBFS; no hidden auto output
+PASS Power and host bypass: exact 38-sample delay, stereo, variable block sizes
+PASS Host bypass meters follow audio instead of freezing
+PASS K-12 calibration and peak calibration: -12 dBFS sine; decay on silence
+PASS Every visible audio control changes the signal; all four frequency selections work
+PASS 192 kHz Sub 60 Hz +10 dB: stable output over five seconds
+PASS Mid/Side gain: pure-mid and pure-side signals, -20/+6/+20 dB, no opposite-component gain
+PASS Mono and Delta: equal-channel sum and latency-aligned difference
+PASS Stereo meters: independent L/R peaks and RMS, K-14 zero reference
+PASS Band Split and Order change audio; Clip holds in all monitor/stage combinations
+PASS Full state round-trip and restored audio; malformed state rejected
+PASS Automation fuzz: all controls, 44.1/192 kHz, Clip ceiling and finite output
+  allocations=0; elapsed including signal generation=151.03 ms; audio duration=5333.33 ms
+PASS No C++ heap allocation inside processBlock during parameter automation; timing
+PASS Stereo isolation: one active channel does not leak into the silent channel
+PASS Solo monitors: Mid, Side and final Clip residual
+  COMP VOL output=-12 dB, residual RMS difference=-0.00957247 dB; allocations=0
+  COMP VOL output=12 dB, residual RMS difference=0.0118656 dB; allocations=0
+PASS COMP VOL: RMS compensation converges, silence safe and callback allocation-free
+PASS Presets: gain locks only on preset load, session restores all gains
+PASS Independent stage bypass retains settings and isolates each stage in PRE/POST
+  stage transition max adjacent delta=0.000183012, callback allocations=0
+PASS Stage switching: 5ms transitions, stable latency and no callback allocations
+PASS Legacy presets without stage flags enable both stages
+FUNCTIONAL AUDIT: 22 groups passed, 0 failed

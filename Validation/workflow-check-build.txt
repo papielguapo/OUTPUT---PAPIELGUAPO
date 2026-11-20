@@ -1,0 +1,13 @@
+Versión de MSBuild 18.11.1-1.26513.3+940033be3 para .NET Framework
+
+  Checking File Globs
+  1>Checking Build System
+  Building Custom Rule C:/Users/anton/Documents/Codex/2026-11-16/pu/outputs/D2F-SCOPE/CMakeLists.txt
+  Phobos67Check_rc_lib.vcxproj -> C:\Users\anton\Documents\Codex\2026-11-16\pu\work\build\Phobos67Check_rc_lib.dir\Release\Phobos67Check_rc_lib.lib
+  Building Custom Rule C:/Users/anton/Documents/Codex/2026-11-16/pu/outputs/D2F-SCOPE/CMakeLists.txt
+  ScopeEbur128.vcxproj -> C:\Users\anton\Documents\Codex\2026-11-16\pu\work\build\Release\ScopeEbur128.lib
+  Building Custom Rule C:/Users/anton/Documents/Codex/2026-11-16/pu/outputs/D2F-SCOPE/CMakeLists.txt
+  Phobos67.vcxproj -> C:\Users\anton\Documents\Codex\2026-11-16\pu\work\build\Phobos67_artefacts\Release\OUTPUT_SharedCode.lib
+  Building Custom Rule C:/Users/anton/Documents/Codex/2026-11-16/pu/outputs/D2F-SCOPE/CMakeLists.txt
+  Check.cpp
+  Phobos67Check.vcxproj -> C:\Users\anton\Documents\Codex\2026-11-16\pu\work\build\Phobos67Check_artefacts\Release\Phobos67Check.exe
