@@ -13,13 +13,13 @@ Creado por **[papielguapo](https://github.com/papielguapo)**.
 
 ---
 
-### ATARI PC
-
-![ATARI PC](Previews/AtariPC.png)
-
 ### WINDOWS 98
 
 ![WINDOWS 98](Previews/Windows98.png)
+
+### ATARI PC
+
+![ATARI PC](Previews/AtariPC.png)
 
 </div>
 
